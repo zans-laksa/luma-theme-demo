@@ -1,0 +1,9 @@
+.Header {
+    &-LogoWrapper {
+        .Image {
+            .Image-Image {
+                object-fit: contain;
+            }
+        }
+    }
+}
